@@ -15,10 +15,6 @@
 * thomic
 * you?
 
-Note:
-* useful note
-![subtext](img/linktopic.png)
-
 --
 
 ## what?
